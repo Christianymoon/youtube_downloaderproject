@@ -53,4 +53,4 @@ Para instalar en linux para propositos de desarrollo:
 
 # Notas
 
-> **04/11/2024 - El proyecto depende de la libreria pytubefix en lugar de pytube por errores en la libreria de la version 15.0.0 puede instalar pytubefix desde pip3 <code>pip install pytubefix</code>**
+> - **04/11/2024 - El proyecto depende de la libreria pytubefix en lugar de pytube por errores en la libreria de la version 15.0.0 puede instalar pytubefix desde pip3 <code>pip install pytubefix</code>**
