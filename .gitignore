@@ -1,0 +1,6 @@
+ffmpeg-master-latest-win64-gpl
+ffmpeg.zip
+.venv
+output
+dist
+build
